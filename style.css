@@ -5,5 +5,12 @@ h1{ color: blueviolet;}
 p{ font-size: large;
 font-weight: 200;
 color: crimson;
-font-style: italic;}
+font-style: italic;
+  border-width: 3px;
+  
+
+}
+
+
+
 img{ width: 200px;}
