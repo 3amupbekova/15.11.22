@@ -1,1 +1,9 @@
-*{ box-sizing: border-box;}
+* {
+  box-sizing: border-box;
+}
+h1{ color: blueviolet;}
+p{ font-size: large;
+font-weight: 200;
+color: crimson;
+font-style: italic;}
+img{ width: 200px;}
